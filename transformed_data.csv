@@ -1,0 +1,6 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger,first_name,last_name,email,phone,destination_id,country,popular_season,total_booking_value
+1,101,2024-02-23,Paris,2,500,0,0,0,0.0,1,France,Spring,1000
+2,102,2024-02-24,London,1,750,0,0,0,0.0,2,United Kingdom,Summer,750
+3,103,2024-02-25,New York,4,400,0,0,0,0.0,3,United States,Autumn,1600
+4,104,2024-02-26,Tokyo,3,600,0,0,0,0.0,4,Japan,Spring,1800
+5,105,2024-02-27,Rome,2,550,0,0,0,0.0,5,Italy,Summer,1100
