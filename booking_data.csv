@@ -1,0 +1,6 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+1,101,2024-02-23,Paris,2,500
+2,102,2024-02-24,London,1,750
+3,103,2024-02-25,New York,4,400
+4,104,2024-02-26,Tokyo,3,600
+5,105,2024-02-27,Rome,2,550
